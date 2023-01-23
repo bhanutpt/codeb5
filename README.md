@@ -1,7 +1,5 @@
 # codeb5
-test bed
 
-HareKrsna
 A github test example, This repository was created to understand the github.
 
 Key learnings:
