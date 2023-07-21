@@ -15,7 +15,7 @@ Staging
 
 Commits
 
-Fork
+Fork - Source of the branch
 
 Working Directory
 
