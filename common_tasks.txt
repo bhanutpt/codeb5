@@ -11,6 +11,8 @@ The common tasks in Github are explained here.
 
 4. Create Branch in VSCode
 
+5. View changes made to a file in VSCode  
+
 
 
 
