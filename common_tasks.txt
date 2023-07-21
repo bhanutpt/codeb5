@@ -13,6 +13,25 @@ The common tasks in Github are explained here.
 
 5. View changes made to a file in VSCode  
 
+6. Pull from a branch in VSCode
+
+First commit changes made to the branch and make sure it is in sync, 
+then you can pull from another branch.   
+
+To pull from a branch, which will take in changes from a particular branch
+ and updates the changes made in the source branch to the target branch files.
+ If there are conflicts, it will show the changes and can be accepted.
+
+ 7. Difference between 'Git: Pull' and 'Git: Pull From'
+
+ Git: Pull will only get the updates from the branch which is currently active.
+ If you are in a branch abc, and if you make a Git: Pull command,
+ it will get updates from the Github from the branch abc, if there are any updates made to it.
+
+ Git: Pull From is used to pull from a particular branch, for example, branch abc can pull from branch def,
+ the changes made in def will be reflected in the branch abc.
+
+
 
 
 
