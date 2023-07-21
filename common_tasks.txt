@@ -1,0 +1,14 @@
+
+Github Common Tasks 
+
+The common tasks in Github are explained here.
+
+1. Creating a Branch.
+
+2. Cloning the project with URL in VSCode.
+
+3. Staging Changes, Comitting to repository from VSCode.
+
+4. Merge branch with pull request.
+
+

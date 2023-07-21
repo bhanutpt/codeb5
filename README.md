@@ -21,4 +21,5 @@ The README.md has markup to support good readability of the document.
 
 https://www.markdownguide.org/cheat-sheet/
 
+The file common_tasks.txt has detailed some of the common tasks in github, explains how to do them in detail.
 
