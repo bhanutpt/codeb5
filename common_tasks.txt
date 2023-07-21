@@ -3,6 +3,10 @@ GITHUB COMMON TASKS
 
 The common tasks in Github are explained here.
 
+The terminology of version control systems can cause confusion,
+its better to understand the glossary of terms commonly used in 
+version control systems like Github.
+
 1. Creating a Branch in Github.
 
 2. Cloning the project with URL in VSCode.
