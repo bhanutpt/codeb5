@@ -1,5 +1,5 @@
 
-Github Common Tasks 
+GITHUB COMMON TASKS 
 
 The common tasks in Github are explained here.
 
