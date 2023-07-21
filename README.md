@@ -14,6 +14,12 @@ Key learnings:
 Along with the online GitHub, one can also install git.
 https://git-scm.com/downloads
 
+GitHub Docs is a good place to start with leargning version control with GitHub.
+https://docs.github.com/en
+
+Also the glossary of version control terms in GitHub is a good reference
+https://docs.github.com/en/get-started/quickstart/github-glossary
+
 Book for git.
 https://git-scm.com/book/en/v2
 
