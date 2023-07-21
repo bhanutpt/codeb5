@@ -1,0 +1,38 @@
+
+A SIMPLE GIT VERSION CONTROL SYSTEM DICTIONARY
+
+Version control
+
+Source control
+
+Version control systems
+
+Source control systems
+
+Checkout
+
+Staging
+
+Commits
+
+Fork
+
+Working Directory
+
+Current Working Directory
+
+Branch
+
+Merge
+
+Pull
+
+Pull from
+
+Tags
+
+Snapshot
+
+Conflict  
+
+

@@ -23,3 +23,6 @@ https://www.markdownguide.org/cheat-sheet/
 
 The file *common_tasks.txt* has detailed some of the common tasks in github, explains how to do them in detail.
 
+The following is a good tutorial on using Git in VS Code.
+https://code.visualstudio.com/docs/sourcecontrol/overview
+
